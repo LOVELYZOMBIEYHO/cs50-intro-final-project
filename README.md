@@ -2,6 +2,8 @@
 
 # Video Demo: https://youtu.be/VXLdmRY0V8c
 
+# Website Demo: https://cs50-simple-job-application.vercel.app/
+
 ## Description:
 
 ## What is the inspiration to my project?
